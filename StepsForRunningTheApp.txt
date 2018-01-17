@@ -1,0 +1,27 @@
+
+STEP 1
+Please paste the project folder "BattleShip" on desktop or any path.
+
+STEP 2
+Now paste provided below file(s)
+"InputFile.txt" if running Visual Studio on Windows, such that final path looks like - "C:\InputFile.txt"
+"InputFile.rtf" if running Visual Studio on MacOS, such that final path looks like - "/Users/harsh/InputFile.rtf"
+
+STEP 3 - (for Windows Only)
+Rt-click on the input file and go to properties and click on unblock checkbox for this file.
+
+STEP 4
+Open the Project by clickling on file "BattleShip.sln° with Visual Studio 2015 or higher (open in Admin mode)
+
+STEP 5
+Once solution is loaded goto >>SolutionExplorer>>rt-click on BattleShip>>Build Solution
+similarly goto >>SolutionExplorer>>rt-click on BattleShipUnitTest>>Build Solution
+
+(if you face error saying solution was build in higher version than current one)
+Goto >>Solution Explorer>>Rt-click on BattleShip>>Properties
+From application tab change the "Target Framework" accordingly (ex - .Net Framework 4.5.1)
+
+STEP 6
+Once solution is succesfully build, run the Application (F5) and choose the option presented accordingly.
+1- Windows
+2- MacOS
