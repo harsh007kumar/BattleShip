@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{10C230D0-EA4E-401C-B18E-928BAB177A7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleShip/Helper.cs">
+    <Files>
+      <File FileName="BattleShip/Program.cs" Line="32" Column="1" />
+      <File FileName="BattleShip/Player.cs" Line="30" Column="1" />
+      <File FileName="BattleShip/BattleArea.cs" Line="42" Column="1" />
+      <File FileName="BattleShip/Helper.cs" Line="34" Column="109" />
+      <File FileName="BattleShip/Coordinates.cs" Line="8" Column="6" />
+      <File FileName="BattleShip/Cell.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BattleShip PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
